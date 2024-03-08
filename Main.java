@@ -7,10 +7,8 @@ public class Main {
         System.out.println("This is java program");
         System.out.println("output from java program");
         System.out.println(new Date());
-        System.out.println("hello");
-        System.out.println("Added one more file");
-        Student student = new Student();
-        student.sayHello();
+        System.out.println("ajay");
+        
     }
 
 }
