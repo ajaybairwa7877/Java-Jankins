@@ -9,7 +9,7 @@ public class Main {
         System.out.println(new Date());
         System.out.println("ajay");
 
-        System.out.println("Today date"+new Date());
+        System.out.println("Today date : "+new Date());
         
     }
 
