@@ -9,9 +9,8 @@ public class Main {
         System.out.println(new Date());
         System.out.println("ajay");
 
-        System.out.println("Kumar");
-
-        System.out.println("Bairwa");
+        System.out.println("Today date"+new Date());
+        
     }
 
 }
