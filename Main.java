@@ -10,6 +10,8 @@ public class Main {
         System.out.println("ajay");
 
         System.out.println("Today date : "+new Date());
+
+        System.out.println("This is an update message get by Jenkins when we make any change in the Git");
         
     }
 
